@@ -2,7 +2,7 @@
 simple javascript game
 
 
-Try this out!🤗
+              Try this out!🤗
 https://sajeerodrigo.github.io/GreenBlob/
 
-Use left & right arrow keys to move blob diagonally.
+(Use left & right arrow keys to move blob diagonally.)
